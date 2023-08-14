@@ -1,4 +1,4 @@
-# Dazor Plasma
+# About
 
 - 🦀 Rust Enthusiast 🦀
   
