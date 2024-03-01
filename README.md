@@ -1,6 +1,4 @@
-# About
-
-- 🦀 Rust Enthusiast 🦀
+## About
   
 |       Category           |       Favorite     |
 | --------------------     |:------------------:|
